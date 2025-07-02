@@ -41,7 +41,7 @@ WHERE salary BETWEEN 45000 AND 70000;
 
 SELECT * FROM employees ORDER BY salary DESC;
 
-SELECT * FROM employees ORDER BY  name  DESC;
+SELECT * FROM employees ORDER BY  name ;
 
 SELECT name, department FROM employees
 ORDER BY salary DESC;
