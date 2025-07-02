@@ -33,4 +33,8 @@ This project is a part of the **SQL Developer Internship** focused on practicing
 
 ---
 
+## 📂 Files Included
+
+- `employees.sql`: Complete SQL script for database creation, table creation , inserts, and  filtering conditions using `WHERE`, `AND`, `OR`, `LIKE`, and `BETWEEN`.
+- `screenshot.png`: Output of executed queries .
 
